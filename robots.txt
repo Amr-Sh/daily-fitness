@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://daily-fitness.vercel.app/sitemap.xml
